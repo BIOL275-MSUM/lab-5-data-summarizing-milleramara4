@@ -3,6 +3,24 @@ Lab 5 Report
 Amara Miller
 2021-02-23
 
+## Lab Objectives
+
+The objectives of this lab are: - Rename variables
+
+  - Create new variables
+
+  - Summarize a dataset
+
+  - Summarize a dataset by groups
+
+  - Visualize the relationship between variables
+    
+      - Numerical and categorical variable
+    
+      - Two numerical variables
+    
+      - Three variables
+
 ## Loading Packages and Data
 
 ``` r
